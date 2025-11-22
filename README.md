@@ -68,24 +68,6 @@ I play [Hobby 1] and [Hobby 2]. I support [Favorite Team 1] and [Favorite Team 2
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gotham" alt="Github Stats" />
-
-<br><br>
-
-<a href="#" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name-1&theme=dracula" />
-</a>
-<a href="#" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name-2&theme=dracula" />
-</a>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
